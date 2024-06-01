@@ -1,12 +1,12 @@
 export const METADATA = {
-  author: "Shubh Porwal",
-  title: "Portfolio | Shubh Porwal",
+  author: "Muhammad Reshaeel",
+  title: "Portfolio | Muhammad Reshaeel",
   description:
-    "Shubh Porwal is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
+    "Muhammad Reshaeel is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
   siteUrl: "https://www.shubhporwal.me/",
   twitterHandle: "@shubh731",
   keywords: [
-    "Shubh Porwal",
+    "Muhammad Reshaeel",
     "Frontend Engineer",
     "React Native Developer",
     "Software Engineer",
@@ -52,23 +52,23 @@ export const TYPED_STRINGS = [
 export const SOCIAL_LINKS = [
   {
     name: "mail",
-    url: "mailto: shubhporwal73@gmail.com",
+    url: "mailto: reshaeelnisar71@gmail.com@gmail.com",
   },
   {
     name: "linkedin",
-    url: "https://www.linkedin.com/in/shubhporwal/",
+    url: "https://www.linkedin.com/in/muhammad-reshaeel-front-end-engineer/",
   },
   {
     name: "github",
-    url: "https://github.com/shubh73",
+    url: "https://github.com/MuhammadReshaeel",
   },
   {
     name: "instagram",
-    url: "https://www.instagram.com/shubhii73/",
+    url: "https://www.instagram.com/reshaeel_nisar/",
   },
   {
     name: "twitter",
-    url: "https://twitter.com/shubh731",
+    url: "https://twitter.com/",
   },
 ];
 
@@ -82,21 +82,17 @@ export const SKILLS = {
     "nodejs",
     "webpack",
     "vite",
-    "firebase",
-    "figma",
-    "tanstack-query",
-  ],
+    "figma"  ],
   librariesAndFrameworks: [
     "react",
     "redux",
     "nextjs",
     "tailwindcss",
     "styledcomponents",
-    "antdesign",
     "chakra-ui",
   ],
-  databases: ["mysql", "mongodb"],
-  other: ["git", "sanity-io"],
+  databases: [ "mongodb"],
+  other: ["git"],
 };
 
 export const PROJECTS = [
