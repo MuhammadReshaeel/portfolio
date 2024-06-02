@@ -79,6 +79,7 @@ const Contact = () => {
     setIsSending(true);
     mail({ name, email, message })
       .then((res) => {
+        console.log(res)
         if (res.status === 200) {
           setMailerResponse("success");
           emptyForm();
